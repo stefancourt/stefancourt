@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project! (msg me)**
 
-- 👨‍💻 All of my projects are available [here!](here!)
+- 👨‍💻 All of my projects are available here!
 
 - 📖 Ask me about **Django and Tensorflow**
 
