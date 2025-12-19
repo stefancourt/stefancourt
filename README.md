@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefancourt&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stefancourt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefancourt&show_icons=true&theme=tokyonight&locale=en" alt="stefancourt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefancourt&theme=dark" alt="stefancourt" /></p>
